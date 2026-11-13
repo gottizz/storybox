@@ -1,0 +1,5 @@
+.git
+.deploy
+index-v*.html
+*.md
+.DS_Store
